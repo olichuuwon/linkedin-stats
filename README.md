@@ -1,4 +1,4 @@
-# LinkedIn Analytics Dashboard
+# LinkedIn Page Admin Analytics Dashboard
 
 A Streamlit app for analyzing LinkedIn post performance and engagement metrics.
 
