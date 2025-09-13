@@ -19,7 +19,9 @@ A Streamlit app for analyzing LinkedIn post performance and engagement metrics.
 
 To obtain your LinkedIn analytics data:
 
-Visit [LinkedIn Help: Download your page analytics data](https://www.linkedin.com/help/linkedin/answer/a565590) and download the XLS file containing your page's post and engagement data.
+Go to your LinkedIn Page Analytics, under the "Content" tab, and download the XLS file containing your page's post and engagement data.
+
+For detailed instructions, refer to [LinkedIn Help: Download your page analytics data](https://www.linkedin.com/help/linkedin/answer/a565590).
 
 This file will have two sheets: Metrics and All posts, which you can convert to CSVs using the provided script.
 
